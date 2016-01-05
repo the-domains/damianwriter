@@ -1,0 +1,28 @@
+name: damianwriter
+favicon: null
+layout_spectrum: 0.7023358859587461
+typography_spectrum: 0.8738617489580065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1590286090504378
+  lightness: 0.14584811474196613
+  saturation: 0.04273160267621279
+  rhythmicContrast: 0.7474600714631379
+purpose: []
