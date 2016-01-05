@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[damianwriter]]></title>
         <description><![CDATA[damianwriter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/damianwriter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 07:32:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 13:42:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/damianwriter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I will use this page to write my poems, open letters and books.</p>]]></description>
-            <link>undefinedd52a2146-5484-431a-95c9-6138a44b3fda/index.html</link>
+            <link>https://thegrid.ai/damianwriter/d52a2146-5484-431a-95c9-6138a44b3fda/index.html</link>
             <guid isPermaLink="false">d52a2146-5484-431a-95c9-6138a44b3fda</guid>
-            <pubDate>Tue, 05 Jan 2016 07:32:42 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 13:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
