@@ -1,28 +1,40 @@
-name: damianwriter
 favicon: null
-layout_spectrum: 0.7023358859587461
-typography_spectrum: 0.8738617489580065
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: damianwriter
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.1590286090504378
-  lightness: 0.14584811474196613
-  saturation: 0.04273160267621279
-  rhythmicContrast: 0.7474600714631379
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3191489
+  brandStrength: 0.8446808
+  lightness: 0
+  brandColors:
+    - '#0B0604'
+    - '#F1CF5A'
+    - '#FFFDF2'
+    - '#4B1F0D'
+    - '#C6661F'
+  rhythmicContrast: 0.5234042
+typography_spectrum: 0.193617
+layout_spectrum: 0.7893617
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
